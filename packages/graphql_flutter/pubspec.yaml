@@ -11,7 +11,7 @@ dependencies:
   path: ^1.6.2
   path_provider: ^1.1.0
   rxdart: ^0.24.0
-  connectivity: ^0.4.4
+  connectivity: ^2.0.2
   gql: ^0.12.0
 dev_dependencies:
   pedantic: ^1.8.0+1
